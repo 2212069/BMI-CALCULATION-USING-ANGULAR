@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+    max-width: 600px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+input {
+    padding: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+}
+.btn {
+    display: inline-block;
+    background: #ff9800;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
